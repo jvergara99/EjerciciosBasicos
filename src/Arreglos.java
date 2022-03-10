@@ -15,7 +15,6 @@ public class Arreglos {
         for (int i = 0; i < calif.length; i++) {
             System.out.println("La calificación "+ (i+1)+ " es:"+ calif[i]);
         }
-        
     }
     
 }
